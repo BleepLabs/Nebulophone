@@ -3,7 +3,7 @@
  
  http://bleeplabs.com/store/nebulophone/ for schematics and more info
  
- This code has not changed much sicne mid 2011. 
+ This code has not changed much since it was released mid 2011. 
  It was my first big Arduino project and I coundn't have done it without these resources:
  
 DDS:
