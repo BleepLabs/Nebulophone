@@ -1,6 +1,8 @@
  The Nebulophone 
  By Dr. Bleep
+ 
  http://bleeplabs.com/store/nebulophone/ for schematics and more info
+ 
  
  This code has not changed much sicne mid 2011. It's messy and inefficent but is still a great little noise gizmo. 
  It was my first big Arduino project and I coundn't have done it without these resources:
