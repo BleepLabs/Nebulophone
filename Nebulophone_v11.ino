@@ -2,7 +2,16 @@
 
  NEBULOPHONE code v11 by Dr. Bleep
  http://bleeplabs.com/store/nebulophone
+
+This code is looking pretty old. If you're looking to do DDS with a 328 check out our rad-fi synth code
+https://github.com/BleepLabs/Rad-Fi-Patchable-Synthesizer/blob/master/RP01%20-001.ino
+
+If you're wanting to jsut make sound with an arduino based chip I'd say check out the Teesny 3 and its audio library
+http://www.pjrc.com/teensy/td_libs_Audio.html
+
+
  
+Origianl info:
 DDS:
  http://mouro.info/signal-generator-using-arduino-and-dds/
  http://interface.khm.de/index.php/lab/experiments/arduino-dds-sinewave-generator/
