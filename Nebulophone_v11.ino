@@ -850,7 +850,7 @@ PORTB |= _BV(5);
 
 void KEYS(){
   
-
+// the order of the pins from lowest note is 15,16,18,2,4,6,11,12,13,14
   j++;//
   if (j>63){
     //dfreqc=(analogRead(4))*8;         
