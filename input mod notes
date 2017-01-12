@@ -1,0 +1,6 @@
+The IR reciever needs to be removed from the bottom of the board.
+
+If the device sending the clock signal is putputting mre than 5V then both resistors are needed. 
+Resistors can be anything from 1k to 100k. They just need to be the same value.
+
+If it is putting out 5V then the bottom resitor that connects to ground can be omitted. The top resistors should then be a value smaller than 2k. 
