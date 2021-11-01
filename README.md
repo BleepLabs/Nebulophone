@@ -1,9 +1,7 @@
  The Nebulophone 
  By Dr. Bleep
- 
- http://bleeplabs.com/store/nebulophone/ for schematics and more info
- 
- This code has not changed much since it was released mid 2011. 
+  
+ This code has not changed much since it was released mid 2011. It's very gnarly and amature and kinda embarrassing now but it did the thing!  
  It was my first big Arduino project and I coundn't have done it without these resources:
  
 DDS:
