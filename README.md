@@ -4,10 +4,10 @@ By Dr. Bleep
 This code has not changed much since it was released mid 2011. It's very gnarly and amature and kinda embarrassing now but it did the thing!  
 It was my first big Arduino project and I coundn't have done it without these resources:
 BUT
-My DIY noise guides and classes on using the Teensy to make synths are a better place to start these days. 
+My DIY noise guides and classes on using the Teensy to make synths are a better place to start these days.    
 https://github.com/BleepLabs/Bleep-wiki/wiki   
 https://github.com/BleepLabs/dadageek-April-21/wiki   
- 
+    
 DDS:
 
  http://mouro.info/signal-generator-using-arduino-and-dds/
