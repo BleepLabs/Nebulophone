@@ -1,7 +1,9 @@
 /*
 
  NEBULOPHONE code v11 by Dr. Bleep
- bleeplabs.com for schematic and more info
+ 
+This code has not changed much since it was released mid 2011. It's very gnarly and amature and kinda embarrassing now but it did the thing!
+It was my first big Arduino project and I coundn't have done it without these resources:
 
 DDS:
  http://mouro.info/signal-generator-using-arduino-and-dds/
@@ -16,6 +18,10 @@ Setting up timers.
 Also good to know:
  http://billgrundmann.wordpress.com/2009/03/03/to-use-or-not-use-writedigital/
 
+BUT
+My DIY noise guides and classes on using the Teensy to make synths are a better place to start these days. 
+https://github.com/BleepLabs/Bleep-wiki/wiki
+https://github.com/BleepLabs/dadageek-April-21/wiki
 
  */
 #include <avr/pgmspace.h>
