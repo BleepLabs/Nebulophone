@@ -8,9 +8,9 @@ https://github.com/BleepLabs/dadageek-April-21/wiki
     
 DDS:
 
+ https://web.archive.org/web/20121109155607/http://interface.khm.de/index.php/lab/experiments/arduino-dds-sinewave-generator/
  http://mouro.info/signal-generator-using-arduino-and-dds/
- http://interface.khm.de/index.php/lab/experiments/arduino-dds-sinewave-generator/
- http://www.analog.com/library/analogdialogue/archives/38-08/dds.html
+  http://www.analog.com/library/analogdialogue/archives/38-08/dds.html
  
 Setting up timers.
 
